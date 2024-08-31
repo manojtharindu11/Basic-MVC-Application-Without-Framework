@@ -49,5 +49,4 @@ This method is used to set the content type to HTML and write the HTML response 
    dotnet run
    ```
 
-3. **Access the Application:**
-   Open your browser and navigate to `http://localhost:5000` to interact with the application.
+
