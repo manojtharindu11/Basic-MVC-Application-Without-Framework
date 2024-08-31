@@ -39,8 +39,8 @@ This method is used to set the content type to HTML and write the HTML response 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/manojtharindu11/basic-mvc-application.git
-   cd basic-mvc-application
+   git clone https://github.com/manojtharindu11/Basic-MVC-Application-Without-Framework.git
+   cd Basic-MVC-Application-Without-Framework
    ```
 
 2. **Build and Run the Application:**
